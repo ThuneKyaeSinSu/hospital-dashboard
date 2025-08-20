@@ -1,0 +1,13 @@
+hospital,unit_id,baseline_staffed_beds
+Halifax Infirmary,ED,21
+Halifax Infirmary,MED,52
+Halifax Infirmary,SURG,47
+Halifax Infirmary,ICU,11
+QEII VG Site,ED,28
+QEII VG Site,MED,55
+QEII VG Site,SURG,28
+QEII VG Site,ICU,13
+Dartmouth General,ED,24
+Dartmouth General,MED,28
+Dartmouth General,SURG,43
+Dartmouth General,ICU,15

@@ -1,0 +1,1081 @@
+date,hospital,unit_id,shift,scheduled_staff
+2025-08-18,Halifax Infirmary,ED,Day,11
+2025-08-18,Halifax Infirmary,ED,Evening,12
+2025-08-18,Halifax Infirmary,ED,Night,18
+2025-08-18,Halifax Infirmary,MED,Day,12
+2025-08-18,Halifax Infirmary,MED,Evening,9
+2025-08-18,Halifax Infirmary,MED,Night,9
+2025-08-18,Halifax Infirmary,SURG,Day,13
+2025-08-18,Halifax Infirmary,SURG,Evening,8
+2025-08-18,Halifax Infirmary,SURG,Night,14
+2025-08-18,Halifax Infirmary,ICU,Day,9
+2025-08-18,Halifax Infirmary,ICU,Evening,4
+2025-08-18,Halifax Infirmary,ICU,Night,12
+2025-08-18,QEII VG Site,ED,Day,7
+2025-08-18,QEII VG Site,ED,Evening,9
+2025-08-18,QEII VG Site,ED,Night,8
+2025-08-18,QEII VG Site,MED,Day,5
+2025-08-18,QEII VG Site,MED,Evening,7
+2025-08-18,QEII VG Site,MED,Night,18
+2025-08-18,QEII VG Site,SURG,Day,8
+2025-08-18,QEII VG Site,SURG,Evening,15
+2025-08-18,QEII VG Site,SURG,Night,9
+2025-08-18,QEII VG Site,ICU,Day,4
+2025-08-18,QEII VG Site,ICU,Evening,17
+2025-08-18,QEII VG Site,ICU,Night,18
+2025-08-18,Dartmouth General,ED,Day,7
+2025-08-18,Dartmouth General,ED,Evening,5
+2025-08-18,Dartmouth General,ED,Night,18
+2025-08-18,Dartmouth General,MED,Day,4
+2025-08-18,Dartmouth General,MED,Evening,18
+2025-08-18,Dartmouth General,MED,Night,5
+2025-08-18,Dartmouth General,SURG,Day,17
+2025-08-18,Dartmouth General,SURG,Evening,18
+2025-08-18,Dartmouth General,SURG,Night,7
+2025-08-18,Dartmouth General,ICU,Day,6
+2025-08-18,Dartmouth General,ICU,Evening,4
+2025-08-18,Dartmouth General,ICU,Night,16
+2025-08-17,Halifax Infirmary,ED,Day,8
+2025-08-17,Halifax Infirmary,ED,Evening,13
+2025-08-17,Halifax Infirmary,ED,Night,13
+2025-08-17,Halifax Infirmary,MED,Day,11
+2025-08-17,Halifax Infirmary,MED,Evening,7
+2025-08-17,Halifax Infirmary,MED,Night,9
+2025-08-17,Halifax Infirmary,SURG,Day,11
+2025-08-17,Halifax Infirmary,SURG,Evening,4
+2025-08-17,Halifax Infirmary,SURG,Night,9
+2025-08-17,Halifax Infirmary,ICU,Day,15
+2025-08-17,Halifax Infirmary,ICU,Evening,10
+2025-08-17,Halifax Infirmary,ICU,Night,9
+2025-08-17,QEII VG Site,ED,Day,17
+2025-08-17,QEII VG Site,ED,Evening,12
+2025-08-17,QEII VG Site,ED,Night,15
+2025-08-17,QEII VG Site,MED,Day,3
+2025-08-17,QEII VG Site,MED,Evening,18
+2025-08-17,QEII VG Site,MED,Night,16
+2025-08-17,QEII VG Site,SURG,Day,17
+2025-08-17,QEII VG Site,SURG,Evening,14
+2025-08-17,QEII VG Site,SURG,Night,12
+2025-08-17,QEII VG Site,ICU,Day,11
+2025-08-17,QEII VG Site,ICU,Evening,13
+2025-08-17,QEII VG Site,ICU,Night,11
+2025-08-17,Dartmouth General,ED,Day,15
+2025-08-17,Dartmouth General,ED,Evening,8
+2025-08-17,Dartmouth General,ED,Night,16
+2025-08-17,Dartmouth General,MED,Day,8
+2025-08-17,Dartmouth General,MED,Evening,11
+2025-08-17,Dartmouth General,MED,Night,4
+2025-08-17,Dartmouth General,SURG,Day,18
+2025-08-17,Dartmouth General,SURG,Evening,14
+2025-08-17,Dartmouth General,SURG,Night,7
+2025-08-17,Dartmouth General,ICU,Day,3
+2025-08-17,Dartmouth General,ICU,Evening,17
+2025-08-17,Dartmouth General,ICU,Night,3
+2025-08-16,Halifax Infirmary,ED,Day,11
+2025-08-16,Halifax Infirmary,ED,Evening,3
+2025-08-16,Halifax Infirmary,ED,Night,14
+2025-08-16,Halifax Infirmary,MED,Day,6
+2025-08-16,Halifax Infirmary,MED,Evening,10
+2025-08-16,Halifax Infirmary,MED,Night,12
+2025-08-16,Halifax Infirmary,SURG,Day,9
+2025-08-16,Halifax Infirmary,SURG,Evening,14
+2025-08-16,Halifax Infirmary,SURG,Night,11
+2025-08-16,Halifax Infirmary,ICU,Day,10
+2025-08-16,Halifax Infirmary,ICU,Evening,8
+2025-08-16,Halifax Infirmary,ICU,Night,9
+2025-08-16,QEII VG Site,ED,Day,8
+2025-08-16,QEII VG Site,ED,Evening,12
+2025-08-16,QEII VG Site,ED,Night,15
+2025-08-16,QEII VG Site,MED,Day,13
+2025-08-16,QEII VG Site,MED,Evening,3
+2025-08-16,QEII VG Site,MED,Night,17
+2025-08-16,QEII VG Site,SURG,Day,16
+2025-08-16,QEII VG Site,SURG,Evening,16
+2025-08-16,QEII VG Site,SURG,Night,3
+2025-08-16,QEII VG Site,ICU,Day,16
+2025-08-16,QEII VG Site,ICU,Evening,10
+2025-08-16,QEII VG Site,ICU,Night,17
+2025-08-16,Dartmouth General,ED,Day,16
+2025-08-16,Dartmouth General,ED,Evening,17
+2025-08-16,Dartmouth General,ED,Night,5
+2025-08-16,Dartmouth General,MED,Day,12
+2025-08-16,Dartmouth General,MED,Evening,15
+2025-08-16,Dartmouth General,MED,Night,13
+2025-08-16,Dartmouth General,SURG,Day,16
+2025-08-16,Dartmouth General,SURG,Evening,15
+2025-08-16,Dartmouth General,SURG,Night,3
+2025-08-16,Dartmouth General,ICU,Day,6
+2025-08-16,Dartmouth General,ICU,Evening,13
+2025-08-16,Dartmouth General,ICU,Night,9
+2025-08-15,Halifax Infirmary,ED,Day,9
+2025-08-15,Halifax Infirmary,ED,Evening,18
+2025-08-15,Halifax Infirmary,ED,Night,4
+2025-08-15,Halifax Infirmary,MED,Day,11
+2025-08-15,Halifax Infirmary,MED,Evening,8
+2025-08-15,Halifax Infirmary,MED,Night,3
+2025-08-15,Halifax Infirmary,SURG,Day,9
+2025-08-15,Halifax Infirmary,SURG,Evening,9
+2025-08-15,Halifax Infirmary,SURG,Night,10
+2025-08-15,Halifax Infirmary,ICU,Day,5
+2025-08-15,Halifax Infirmary,ICU,Evening,15
+2025-08-15,Halifax Infirmary,ICU,Night,9
+2025-08-15,QEII VG Site,ED,Day,12
+2025-08-15,QEII VG Site,ED,Evening,12
+2025-08-15,QEII VG Site,ED,Night,12
+2025-08-15,QEII VG Site,MED,Day,11
+2025-08-15,QEII VG Site,MED,Evening,8
+2025-08-15,QEII VG Site,MED,Night,11
+2025-08-15,QEII VG Site,SURG,Day,12
+2025-08-15,QEII VG Site,SURG,Evening,3
+2025-08-15,QEII VG Site,SURG,Night,15
+2025-08-15,QEII VG Site,ICU,Day,10
+2025-08-15,QEII VG Site,ICU,Evening,7
+2025-08-15,QEII VG Site,ICU,Night,3
+2025-08-15,Dartmouth General,ED,Day,8
+2025-08-15,Dartmouth General,ED,Evening,9
+2025-08-15,Dartmouth General,ED,Night,17
+2025-08-15,Dartmouth General,MED,Day,13
+2025-08-15,Dartmouth General,MED,Evening,10
+2025-08-15,Dartmouth General,MED,Night,5
+2025-08-15,Dartmouth General,SURG,Day,7
+2025-08-15,Dartmouth General,SURG,Evening,18
+2025-08-15,Dartmouth General,SURG,Night,5
+2025-08-15,Dartmouth General,ICU,Day,13
+2025-08-15,Dartmouth General,ICU,Evening,11
+2025-08-15,Dartmouth General,ICU,Night,6
+2025-08-14,Halifax Infirmary,ED,Day,17
+2025-08-14,Halifax Infirmary,ED,Evening,9
+2025-08-14,Halifax Infirmary,ED,Night,14
+2025-08-14,Halifax Infirmary,MED,Day,4
+2025-08-14,Halifax Infirmary,MED,Evening,19
+2025-08-14,Halifax Infirmary,MED,Night,3
+2025-08-14,Halifax Infirmary,SURG,Day,8
+2025-08-14,Halifax Infirmary,SURG,Evening,18
+2025-08-14,Halifax Infirmary,SURG,Night,13
+2025-08-14,Halifax Infirmary,ICU,Day,14
+2025-08-14,Halifax Infirmary,ICU,Evening,8
+2025-08-14,Halifax Infirmary,ICU,Night,16
+2025-08-14,QEII VG Site,ED,Day,18
+2025-08-14,QEII VG Site,ED,Evening,13
+2025-08-14,QEII VG Site,ED,Night,6
+2025-08-14,QEII VG Site,MED,Day,18
+2025-08-14,QEII VG Site,MED,Evening,3
+2025-08-14,QEII VG Site,MED,Night,18
+2025-08-14,QEII VG Site,SURG,Day,3
+2025-08-14,QEII VG Site,SURG,Evening,3
+2025-08-14,QEII VG Site,SURG,Night,3
+2025-08-14,QEII VG Site,ICU,Day,6
+2025-08-14,QEII VG Site,ICU,Evening,15
+2025-08-14,QEII VG Site,ICU,Night,9
+2025-08-14,Dartmouth General,ED,Day,4
+2025-08-14,Dartmouth General,ED,Evening,8
+2025-08-14,Dartmouth General,ED,Night,19
+2025-08-14,Dartmouth General,MED,Day,11
+2025-08-14,Dartmouth General,MED,Evening,15
+2025-08-14,Dartmouth General,MED,Night,7
+2025-08-14,Dartmouth General,SURG,Day,11
+2025-08-14,Dartmouth General,SURG,Evening,16
+2025-08-14,Dartmouth General,SURG,Night,14
+2025-08-14,Dartmouth General,ICU,Day,3
+2025-08-14,Dartmouth General,ICU,Evening,13
+2025-08-14,Dartmouth General,ICU,Night,16
+2025-08-13,Halifax Infirmary,ED,Day,5
+2025-08-13,Halifax Infirmary,ED,Evening,9
+2025-08-13,Halifax Infirmary,ED,Night,13
+2025-08-13,Halifax Infirmary,MED,Day,3
+2025-08-13,Halifax Infirmary,MED,Evening,15
+2025-08-13,Halifax Infirmary,MED,Night,17
+2025-08-13,Halifax Infirmary,SURG,Day,11
+2025-08-13,Halifax Infirmary,SURG,Evening,10
+2025-08-13,Halifax Infirmary,SURG,Night,4
+2025-08-13,Halifax Infirmary,ICU,Day,15
+2025-08-13,Halifax Infirmary,ICU,Evening,19
+2025-08-13,Halifax Infirmary,ICU,Night,17
+2025-08-13,QEII VG Site,ED,Day,12
+2025-08-13,QEII VG Site,ED,Evening,3
+2025-08-13,QEII VG Site,ED,Night,7
+2025-08-13,QEII VG Site,MED,Day,7
+2025-08-13,QEII VG Site,MED,Evening,3
+2025-08-13,QEII VG Site,MED,Night,5
+2025-08-13,QEII VG Site,SURG,Day,12
+2025-08-13,QEII VG Site,SURG,Evening,4
+2025-08-13,QEII VG Site,SURG,Night,3
+2025-08-13,QEII VG Site,ICU,Day,19
+2025-08-13,QEII VG Site,ICU,Evening,13
+2025-08-13,QEII VG Site,ICU,Night,16
+2025-08-13,Dartmouth General,ED,Day,7
+2025-08-13,Dartmouth General,ED,Evening,9
+2025-08-13,Dartmouth General,ED,Night,13
+2025-08-13,Dartmouth General,MED,Day,14
+2025-08-13,Dartmouth General,MED,Evening,9
+2025-08-13,Dartmouth General,MED,Night,18
+2025-08-13,Dartmouth General,SURG,Day,14
+2025-08-13,Dartmouth General,SURG,Evening,6
+2025-08-13,Dartmouth General,SURG,Night,4
+2025-08-13,Dartmouth General,ICU,Day,3
+2025-08-13,Dartmouth General,ICU,Evening,17
+2025-08-13,Dartmouth General,ICU,Night,17
+2025-08-12,Halifax Infirmary,ED,Day,11
+2025-08-12,Halifax Infirmary,ED,Evening,15
+2025-08-12,Halifax Infirmary,ED,Night,18
+2025-08-12,Halifax Infirmary,MED,Day,5
+2025-08-12,Halifax Infirmary,MED,Evening,19
+2025-08-12,Halifax Infirmary,MED,Night,11
+2025-08-12,Halifax Infirmary,SURG,Day,10
+2025-08-12,Halifax Infirmary,SURG,Evening,5
+2025-08-12,Halifax Infirmary,SURG,Night,14
+2025-08-12,Halifax Infirmary,ICU,Day,13
+2025-08-12,Halifax Infirmary,ICU,Evening,3
+2025-08-12,Halifax Infirmary,ICU,Night,14
+2025-08-12,QEII VG Site,ED,Day,5
+2025-08-12,QEII VG Site,ED,Evening,7
+2025-08-12,QEII VG Site,ED,Night,13
+2025-08-12,QEII VG Site,MED,Day,16
+2025-08-12,QEII VG Site,MED,Evening,5
+2025-08-12,QEII VG Site,MED,Night,11
+2025-08-12,QEII VG Site,SURG,Day,7
+2025-08-12,QEII VG Site,SURG,Evening,15
+2025-08-12,QEII VG Site,SURG,Night,17
+2025-08-12,QEII VG Site,ICU,Day,13
+2025-08-12,QEII VG Site,ICU,Evening,16
+2025-08-12,QEII VG Site,ICU,Night,10
+2025-08-12,Dartmouth General,ED,Day,13
+2025-08-12,Dartmouth General,ED,Evening,7
+2025-08-12,Dartmouth General,ED,Night,19
+2025-08-12,Dartmouth General,MED,Day,6
+2025-08-12,Dartmouth General,MED,Evening,18
+2025-08-12,Dartmouth General,MED,Night,15
+2025-08-12,Dartmouth General,SURG,Day,19
+2025-08-12,Dartmouth General,SURG,Evening,13
+2025-08-12,Dartmouth General,SURG,Night,8
+2025-08-12,Dartmouth General,ICU,Day,7
+2025-08-12,Dartmouth General,ICU,Evening,6
+2025-08-12,Dartmouth General,ICU,Night,19
+2025-08-11,Halifax Infirmary,ED,Day,4
+2025-08-11,Halifax Infirmary,ED,Evening,16
+2025-08-11,Halifax Infirmary,ED,Night,14
+2025-08-11,Halifax Infirmary,MED,Day,5
+2025-08-11,Halifax Infirmary,MED,Evening,18
+2025-08-11,Halifax Infirmary,MED,Night,5
+2025-08-11,Halifax Infirmary,SURG,Day,5
+2025-08-11,Halifax Infirmary,SURG,Evening,12
+2025-08-11,Halifax Infirmary,SURG,Night,4
+2025-08-11,Halifax Infirmary,ICU,Day,4
+2025-08-11,Halifax Infirmary,ICU,Evening,13
+2025-08-11,Halifax Infirmary,ICU,Night,19
+2025-08-11,QEII VG Site,ED,Day,3
+2025-08-11,QEII VG Site,ED,Evening,13
+2025-08-11,QEII VG Site,ED,Night,13
+2025-08-11,QEII VG Site,MED,Day,4
+2025-08-11,QEII VG Site,MED,Evening,5
+2025-08-11,QEII VG Site,MED,Night,10
+2025-08-11,QEII VG Site,SURG,Day,14
+2025-08-11,QEII VG Site,SURG,Evening,6
+2025-08-11,QEII VG Site,SURG,Night,10
+2025-08-11,QEII VG Site,ICU,Day,11
+2025-08-11,QEII VG Site,ICU,Evening,15
+2025-08-11,QEII VG Site,ICU,Night,7
+2025-08-11,Dartmouth General,ED,Day,14
+2025-08-11,Dartmouth General,ED,Evening,17
+2025-08-11,Dartmouth General,ED,Night,12
+2025-08-11,Dartmouth General,MED,Day,15
+2025-08-11,Dartmouth General,MED,Evening,5
+2025-08-11,Dartmouth General,MED,Night,18
+2025-08-11,Dartmouth General,SURG,Day,8
+2025-08-11,Dartmouth General,SURG,Evening,6
+2025-08-11,Dartmouth General,SURG,Night,12
+2025-08-11,Dartmouth General,ICU,Day,9
+2025-08-11,Dartmouth General,ICU,Evening,10
+2025-08-11,Dartmouth General,ICU,Night,16
+2025-08-10,Halifax Infirmary,ED,Day,12
+2025-08-10,Halifax Infirmary,ED,Evening,9
+2025-08-10,Halifax Infirmary,ED,Night,16
+2025-08-10,Halifax Infirmary,MED,Day,9
+2025-08-10,Halifax Infirmary,MED,Evening,19
+2025-08-10,Halifax Infirmary,MED,Night,19
+2025-08-10,Halifax Infirmary,SURG,Day,10
+2025-08-10,Halifax Infirmary,SURG,Evening,16
+2025-08-10,Halifax Infirmary,SURG,Night,15
+2025-08-10,Halifax Infirmary,ICU,Day,17
+2025-08-10,Halifax Infirmary,ICU,Evening,10
+2025-08-10,Halifax Infirmary,ICU,Night,9
+2025-08-10,QEII VG Site,ED,Day,7
+2025-08-10,QEII VG Site,ED,Evening,12
+2025-08-10,QEII VG Site,ED,Night,13
+2025-08-10,QEII VG Site,MED,Day,10
+2025-08-10,QEII VG Site,MED,Evening,8
+2025-08-10,QEII VG Site,MED,Night,10
+2025-08-10,QEII VG Site,SURG,Day,11
+2025-08-10,QEII VG Site,SURG,Evening,5
+2025-08-10,QEII VG Site,SURG,Night,14
+2025-08-10,QEII VG Site,ICU,Day,17
+2025-08-10,QEII VG Site,ICU,Evening,8
+2025-08-10,QEII VG Site,ICU,Night,9
+2025-08-10,Dartmouth General,ED,Day,4
+2025-08-10,Dartmouth General,ED,Evening,12
+2025-08-10,Dartmouth General,ED,Night,10
+2025-08-10,Dartmouth General,MED,Day,17
+2025-08-10,Dartmouth General,MED,Evening,18
+2025-08-10,Dartmouth General,MED,Night,16
+2025-08-10,Dartmouth General,SURG,Day,6
+2025-08-10,Dartmouth General,SURG,Evening,6
+2025-08-10,Dartmouth General,SURG,Night,11
+2025-08-10,Dartmouth General,ICU,Day,13
+2025-08-10,Dartmouth General,ICU,Evening,3
+2025-08-10,Dartmouth General,ICU,Night,11
+2025-08-09,Halifax Infirmary,ED,Day,4
+2025-08-09,Halifax Infirmary,ED,Evening,7
+2025-08-09,Halifax Infirmary,ED,Night,9
+2025-08-09,Halifax Infirmary,MED,Day,3
+2025-08-09,Halifax Infirmary,MED,Evening,7
+2025-08-09,Halifax Infirmary,MED,Night,13
+2025-08-09,Halifax Infirmary,SURG,Day,19
+2025-08-09,Halifax Infirmary,SURG,Evening,16
+2025-08-09,Halifax Infirmary,SURG,Night,8
+2025-08-09,Halifax Infirmary,ICU,Day,19
+2025-08-09,Halifax Infirmary,ICU,Evening,10
+2025-08-09,Halifax Infirmary,ICU,Night,9
+2025-08-09,QEII VG Site,ED,Day,17
+2025-08-09,QEII VG Site,ED,Evening,9
+2025-08-09,QEII VG Site,ED,Night,15
+2025-08-09,QEII VG Site,MED,Day,5
+2025-08-09,QEII VG Site,MED,Evening,8
+2025-08-09,QEII VG Site,MED,Night,19
+2025-08-09,QEII VG Site,SURG,Day,7
+2025-08-09,QEII VG Site,SURG,Evening,17
+2025-08-09,QEII VG Site,SURG,Night,10
+2025-08-09,QEII VG Site,ICU,Day,19
+2025-08-09,QEII VG Site,ICU,Evening,10
+2025-08-09,QEII VG Site,ICU,Night,11
+2025-08-09,Dartmouth General,ED,Day,9
+2025-08-09,Dartmouth General,ED,Evening,6
+2025-08-09,Dartmouth General,ED,Night,17
+2025-08-09,Dartmouth General,MED,Day,12
+2025-08-09,Dartmouth General,MED,Evening,11
+2025-08-09,Dartmouth General,MED,Night,9
+2025-08-09,Dartmouth General,SURG,Day,16
+2025-08-09,Dartmouth General,SURG,Evening,8
+2025-08-09,Dartmouth General,SURG,Night,7
+2025-08-09,Dartmouth General,ICU,Day,4
+2025-08-09,Dartmouth General,ICU,Evening,17
+2025-08-09,Dartmouth General,ICU,Night,4
+2025-08-08,Halifax Infirmary,ED,Day,17
+2025-08-08,Halifax Infirmary,ED,Evening,9
+2025-08-08,Halifax Infirmary,ED,Night,3
+2025-08-08,Halifax Infirmary,MED,Day,18
+2025-08-08,Halifax Infirmary,MED,Evening,15
+2025-08-08,Halifax Infirmary,MED,Night,15
+2025-08-08,Halifax Infirmary,SURG,Day,12
+2025-08-08,Halifax Infirmary,SURG,Evening,15
+2025-08-08,Halifax Infirmary,SURG,Night,5
+2025-08-08,Halifax Infirmary,ICU,Day,6
+2025-08-08,Halifax Infirmary,ICU,Evening,12
+2025-08-08,Halifax Infirmary,ICU,Night,15
+2025-08-08,QEII VG Site,ED,Day,13
+2025-08-08,QEII VG Site,ED,Evening,9
+2025-08-08,QEII VG Site,ED,Night,14
+2025-08-08,QEII VG Site,MED,Day,4
+2025-08-08,QEII VG Site,MED,Evening,11
+2025-08-08,QEII VG Site,MED,Night,9
+2025-08-08,QEII VG Site,SURG,Day,11
+2025-08-08,QEII VG Site,SURG,Evening,5
+2025-08-08,QEII VG Site,SURG,Night,18
+2025-08-08,QEII VG Site,ICU,Day,17
+2025-08-08,QEII VG Site,ICU,Evening,19
+2025-08-08,QEII VG Site,ICU,Night,17
+2025-08-08,Dartmouth General,ED,Day,14
+2025-08-08,Dartmouth General,ED,Evening,7
+2025-08-08,Dartmouth General,ED,Night,4
+2025-08-08,Dartmouth General,MED,Day,13
+2025-08-08,Dartmouth General,MED,Evening,19
+2025-08-08,Dartmouth General,MED,Night,9
+2025-08-08,Dartmouth General,SURG,Day,19
+2025-08-08,Dartmouth General,SURG,Evening,5
+2025-08-08,Dartmouth General,SURG,Night,7
+2025-08-08,Dartmouth General,ICU,Day,14
+2025-08-08,Dartmouth General,ICU,Evening,11
+2025-08-08,Dartmouth General,ICU,Night,15
+2025-08-07,Halifax Infirmary,ED,Day,8
+2025-08-07,Halifax Infirmary,ED,Evening,16
+2025-08-07,Halifax Infirmary,ED,Night,8
+2025-08-07,Halifax Infirmary,MED,Day,5
+2025-08-07,Halifax Infirmary,MED,Evening,12
+2025-08-07,Halifax Infirmary,MED,Night,11
+2025-08-07,Halifax Infirmary,SURG,Day,12
+2025-08-07,Halifax Infirmary,SURG,Evening,3
+2025-08-07,Halifax Infirmary,SURG,Night,9
+2025-08-07,Halifax Infirmary,ICU,Day,4
+2025-08-07,Halifax Infirmary,ICU,Evening,16
+2025-08-07,Halifax Infirmary,ICU,Night,4
+2025-08-07,QEII VG Site,ED,Day,18
+2025-08-07,QEII VG Site,ED,Evening,3
+2025-08-07,QEII VG Site,ED,Night,13
+2025-08-07,QEII VG Site,MED,Day,8
+2025-08-07,QEII VG Site,MED,Evening,4
+2025-08-07,QEII VG Site,MED,Night,9
+2025-08-07,QEII VG Site,SURG,Day,3
+2025-08-07,QEII VG Site,SURG,Evening,14
+2025-08-07,QEII VG Site,SURG,Night,17
+2025-08-07,QEII VG Site,ICU,Day,8
+2025-08-07,QEII VG Site,ICU,Evening,10
+2025-08-07,QEII VG Site,ICU,Night,5
+2025-08-07,Dartmouth General,ED,Day,11
+2025-08-07,Dartmouth General,ED,Evening,19
+2025-08-07,Dartmouth General,ED,Night,12
+2025-08-07,Dartmouth General,MED,Day,17
+2025-08-07,Dartmouth General,MED,Evening,16
+2025-08-07,Dartmouth General,MED,Night,5
+2025-08-07,Dartmouth General,SURG,Day,3
+2025-08-07,Dartmouth General,SURG,Evening,9
+2025-08-07,Dartmouth General,SURG,Night,18
+2025-08-07,Dartmouth General,ICU,Day,5
+2025-08-07,Dartmouth General,ICU,Evening,3
+2025-08-07,Dartmouth General,ICU,Night,19
+2025-08-06,Halifax Infirmary,ED,Day,6
+2025-08-06,Halifax Infirmary,ED,Evening,9
+2025-08-06,Halifax Infirmary,ED,Night,16
+2025-08-06,Halifax Infirmary,MED,Day,4
+2025-08-06,Halifax Infirmary,MED,Evening,5
+2025-08-06,Halifax Infirmary,MED,Night,15
+2025-08-06,Halifax Infirmary,SURG,Day,3
+2025-08-06,Halifax Infirmary,SURG,Evening,15
+2025-08-06,Halifax Infirmary,SURG,Night,12
+2025-08-06,Halifax Infirmary,ICU,Day,7
+2025-08-06,Halifax Infirmary,ICU,Evening,13
+2025-08-06,Halifax Infirmary,ICU,Night,8
+2025-08-06,QEII VG Site,ED,Day,19
+2025-08-06,QEII VG Site,ED,Evening,10
+2025-08-06,QEII VG Site,ED,Night,15
+2025-08-06,QEII VG Site,MED,Day,7
+2025-08-06,QEII VG Site,MED,Evening,17
+2025-08-06,QEII VG Site,MED,Night,7
+2025-08-06,QEII VG Site,SURG,Day,11
+2025-08-06,QEII VG Site,SURG,Evening,16
+2025-08-06,QEII VG Site,SURG,Night,18
+2025-08-06,QEII VG Site,ICU,Day,15
+2025-08-06,QEII VG Site,ICU,Evening,14
+2025-08-06,QEII VG Site,ICU,Night,14
+2025-08-06,Dartmouth General,ED,Day,9
+2025-08-06,Dartmouth General,ED,Evening,14
+2025-08-06,Dartmouth General,ED,Night,12
+2025-08-06,Dartmouth General,MED,Day,11
+2025-08-06,Dartmouth General,MED,Evening,8
+2025-08-06,Dartmouth General,MED,Night,8
+2025-08-06,Dartmouth General,SURG,Day,5
+2025-08-06,Dartmouth General,SURG,Evening,15
+2025-08-06,Dartmouth General,SURG,Night,3
+2025-08-06,Dartmouth General,ICU,Day,4
+2025-08-06,Dartmouth General,ICU,Evening,7
+2025-08-06,Dartmouth General,ICU,Night,5
+2025-08-05,Halifax Infirmary,ED,Day,15
+2025-08-05,Halifax Infirmary,ED,Evening,5
+2025-08-05,Halifax Infirmary,ED,Night,10
+2025-08-05,Halifax Infirmary,MED,Day,15
+2025-08-05,Halifax Infirmary,MED,Evening,13
+2025-08-05,Halifax Infirmary,MED,Night,13
+2025-08-05,Halifax Infirmary,SURG,Day,8
+2025-08-05,Halifax Infirmary,SURG,Evening,10
+2025-08-05,Halifax Infirmary,SURG,Night,16
+2025-08-05,Halifax Infirmary,ICU,Day,11
+2025-08-05,Halifax Infirmary,ICU,Evening,14
+2025-08-05,Halifax Infirmary,ICU,Night,17
+2025-08-05,QEII VG Site,ED,Day,7
+2025-08-05,QEII VG Site,ED,Evening,5
+2025-08-05,QEII VG Site,ED,Night,10
+2025-08-05,QEII VG Site,MED,Day,9
+2025-08-05,QEII VG Site,MED,Evening,5
+2025-08-05,QEII VG Site,MED,Night,15
+2025-08-05,QEII VG Site,SURG,Day,13
+2025-08-05,QEII VG Site,SURG,Evening,14
+2025-08-05,QEII VG Site,SURG,Night,15
+2025-08-05,QEII VG Site,ICU,Day,10
+2025-08-05,QEII VG Site,ICU,Evening,11
+2025-08-05,QEII VG Site,ICU,Night,6
+2025-08-05,Dartmouth General,ED,Day,15
+2025-08-05,Dartmouth General,ED,Evening,19
+2025-08-05,Dartmouth General,ED,Night,17
+2025-08-05,Dartmouth General,MED,Day,9
+2025-08-05,Dartmouth General,MED,Evening,3
+2025-08-05,Dartmouth General,MED,Night,17
+2025-08-05,Dartmouth General,SURG,Day,12
+2025-08-05,Dartmouth General,SURG,Evening,16
+2025-08-05,Dartmouth General,SURG,Night,8
+2025-08-05,Dartmouth General,ICU,Day,17
+2025-08-05,Dartmouth General,ICU,Evening,17
+2025-08-05,Dartmouth General,ICU,Night,3
+2025-08-04,Halifax Infirmary,ED,Day,12
+2025-08-04,Halifax Infirmary,ED,Evening,11
+2025-08-04,Halifax Infirmary,ED,Night,14
+2025-08-04,Halifax Infirmary,MED,Day,7
+2025-08-04,Halifax Infirmary,MED,Evening,4
+2025-08-04,Halifax Infirmary,MED,Night,7
+2025-08-04,Halifax Infirmary,SURG,Day,11
+2025-08-04,Halifax Infirmary,SURG,Evening,7
+2025-08-04,Halifax Infirmary,SURG,Night,10
+2025-08-04,Halifax Infirmary,ICU,Day,9
+2025-08-04,Halifax Infirmary,ICU,Evening,14
+2025-08-04,Halifax Infirmary,ICU,Night,9
+2025-08-04,QEII VG Site,ED,Day,5
+2025-08-04,QEII VG Site,ED,Evening,13
+2025-08-04,QEII VG Site,ED,Night,6
+2025-08-04,QEII VG Site,MED,Day,8
+2025-08-04,QEII VG Site,MED,Evening,15
+2025-08-04,QEII VG Site,MED,Night,7
+2025-08-04,QEII VG Site,SURG,Day,4
+2025-08-04,QEII VG Site,SURG,Evening,9
+2025-08-04,QEII VG Site,SURG,Night,9
+2025-08-04,QEII VG Site,ICU,Day,14
+2025-08-04,QEII VG Site,ICU,Evening,15
+2025-08-04,QEII VG Site,ICU,Night,3
+2025-08-04,Dartmouth General,ED,Day,15
+2025-08-04,Dartmouth General,ED,Evening,15
+2025-08-04,Dartmouth General,ED,Night,5
+2025-08-04,Dartmouth General,MED,Day,8
+2025-08-04,Dartmouth General,MED,Evening,16
+2025-08-04,Dartmouth General,MED,Night,12
+2025-08-04,Dartmouth General,SURG,Day,8
+2025-08-04,Dartmouth General,SURG,Evening,15
+2025-08-04,Dartmouth General,SURG,Night,13
+2025-08-04,Dartmouth General,ICU,Day,11
+2025-08-04,Dartmouth General,ICU,Evening,3
+2025-08-04,Dartmouth General,ICU,Night,14
+2025-08-03,Halifax Infirmary,ED,Day,6
+2025-08-03,Halifax Infirmary,ED,Evening,18
+2025-08-03,Halifax Infirmary,ED,Night,6
+2025-08-03,Halifax Infirmary,MED,Day,3
+2025-08-03,Halifax Infirmary,MED,Evening,9
+2025-08-03,Halifax Infirmary,MED,Night,8
+2025-08-03,Halifax Infirmary,SURG,Day,8
+2025-08-03,Halifax Infirmary,SURG,Evening,18
+2025-08-03,Halifax Infirmary,SURG,Night,7
+2025-08-03,Halifax Infirmary,ICU,Day,17
+2025-08-03,Halifax Infirmary,ICU,Evening,5
+2025-08-03,Halifax Infirmary,ICU,Night,13
+2025-08-03,QEII VG Site,ED,Day,5
+2025-08-03,QEII VG Site,ED,Evening,6
+2025-08-03,QEII VG Site,ED,Night,5
+2025-08-03,QEII VG Site,MED,Day,8
+2025-08-03,QEII VG Site,MED,Evening,10
+2025-08-03,QEII VG Site,MED,Night,17
+2025-08-03,QEII VG Site,SURG,Day,15
+2025-08-03,QEII VG Site,SURG,Evening,14
+2025-08-03,QEII VG Site,SURG,Night,11
+2025-08-03,QEII VG Site,ICU,Day,7
+2025-08-03,QEII VG Site,ICU,Evening,8
+2025-08-03,QEII VG Site,ICU,Night,5
+2025-08-03,Dartmouth General,ED,Day,14
+2025-08-03,Dartmouth General,ED,Evening,16
+2025-08-03,Dartmouth General,ED,Night,12
+2025-08-03,Dartmouth General,MED,Day,12
+2025-08-03,Dartmouth General,MED,Evening,9
+2025-08-03,Dartmouth General,MED,Night,19
+2025-08-03,Dartmouth General,SURG,Day,18
+2025-08-03,Dartmouth General,SURG,Evening,9
+2025-08-03,Dartmouth General,SURG,Night,15
+2025-08-03,Dartmouth General,ICU,Day,8
+2025-08-03,Dartmouth General,ICU,Evening,5
+2025-08-03,Dartmouth General,ICU,Night,7
+2025-08-02,Halifax Infirmary,ED,Day,17
+2025-08-02,Halifax Infirmary,ED,Evening,11
+2025-08-02,Halifax Infirmary,ED,Night,17
+2025-08-02,Halifax Infirmary,MED,Day,8
+2025-08-02,Halifax Infirmary,MED,Evening,10
+2025-08-02,Halifax Infirmary,MED,Night,4
+2025-08-02,Halifax Infirmary,SURG,Day,16
+2025-08-02,Halifax Infirmary,SURG,Evening,8
+2025-08-02,Halifax Infirmary,SURG,Night,4
+2025-08-02,Halifax Infirmary,ICU,Day,6
+2025-08-02,Halifax Infirmary,ICU,Evening,14
+2025-08-02,Halifax Infirmary,ICU,Night,16
+2025-08-02,QEII VG Site,ED,Day,19
+2025-08-02,QEII VG Site,ED,Evening,7
+2025-08-02,QEII VG Site,ED,Night,13
+2025-08-02,QEII VG Site,MED,Day,10
+2025-08-02,QEII VG Site,MED,Evening,15
+2025-08-02,QEII VG Site,MED,Night,14
+2025-08-02,QEII VG Site,SURG,Day,4
+2025-08-02,QEII VG Site,SURG,Evening,5
+2025-08-02,QEII VG Site,SURG,Night,13
+2025-08-02,QEII VG Site,ICU,Day,12
+2025-08-02,QEII VG Site,ICU,Evening,18
+2025-08-02,QEII VG Site,ICU,Night,17
+2025-08-02,Dartmouth General,ED,Day,3
+2025-08-02,Dartmouth General,ED,Evening,12
+2025-08-02,Dartmouth General,ED,Night,9
+2025-08-02,Dartmouth General,MED,Day,11
+2025-08-02,Dartmouth General,MED,Evening,4
+2025-08-02,Dartmouth General,MED,Night,17
+2025-08-02,Dartmouth General,SURG,Day,5
+2025-08-02,Dartmouth General,SURG,Evening,19
+2025-08-02,Dartmouth General,SURG,Night,18
+2025-08-02,Dartmouth General,ICU,Day,16
+2025-08-02,Dartmouth General,ICU,Evening,4
+2025-08-02,Dartmouth General,ICU,Night,9
+2025-08-01,Halifax Infirmary,ED,Day,3
+2025-08-01,Halifax Infirmary,ED,Evening,13
+2025-08-01,Halifax Infirmary,ED,Night,17
+2025-08-01,Halifax Infirmary,MED,Day,11
+2025-08-01,Halifax Infirmary,MED,Evening,3
+2025-08-01,Halifax Infirmary,MED,Night,8
+2025-08-01,Halifax Infirmary,SURG,Day,5
+2025-08-01,Halifax Infirmary,SURG,Evening,10
+2025-08-01,Halifax Infirmary,SURG,Night,9
+2025-08-01,Halifax Infirmary,ICU,Day,17
+2025-08-01,Halifax Infirmary,ICU,Evening,6
+2025-08-01,Halifax Infirmary,ICU,Night,8
+2025-08-01,QEII VG Site,ED,Day,7
+2025-08-01,QEII VG Site,ED,Evening,18
+2025-08-01,QEII VG Site,ED,Night,8
+2025-08-01,QEII VG Site,MED,Day,19
+2025-08-01,QEII VG Site,MED,Evening,14
+2025-08-01,QEII VG Site,MED,Night,8
+2025-08-01,QEII VG Site,SURG,Day,13
+2025-08-01,QEII VG Site,SURG,Evening,5
+2025-08-01,QEII VG Site,SURG,Night,18
+2025-08-01,QEII VG Site,ICU,Day,19
+2025-08-01,QEII VG Site,ICU,Evening,7
+2025-08-01,QEII VG Site,ICU,Night,5
+2025-08-01,Dartmouth General,ED,Day,10
+2025-08-01,Dartmouth General,ED,Evening,16
+2025-08-01,Dartmouth General,ED,Night,13
+2025-08-01,Dartmouth General,MED,Day,3
+2025-08-01,Dartmouth General,MED,Evening,3
+2025-08-01,Dartmouth General,MED,Night,7
+2025-08-01,Dartmouth General,SURG,Day,15
+2025-08-01,Dartmouth General,SURG,Evening,7
+2025-08-01,Dartmouth General,SURG,Night,18
+2025-08-01,Dartmouth General,ICU,Day,8
+2025-08-01,Dartmouth General,ICU,Evening,18
+2025-08-01,Dartmouth General,ICU,Night,18
+2025-07-31,Halifax Infirmary,ED,Day,15
+2025-07-31,Halifax Infirmary,ED,Evening,5
+2025-07-31,Halifax Infirmary,ED,Night,4
+2025-07-31,Halifax Infirmary,MED,Day,5
+2025-07-31,Halifax Infirmary,MED,Evening,13
+2025-07-31,Halifax Infirmary,MED,Night,14
+2025-07-31,Halifax Infirmary,SURG,Day,19
+2025-07-31,Halifax Infirmary,SURG,Evening,19
+2025-07-31,Halifax Infirmary,SURG,Night,8
+2025-07-31,Halifax Infirmary,ICU,Day,9
+2025-07-31,Halifax Infirmary,ICU,Evening,16
+2025-07-31,Halifax Infirmary,ICU,Night,16
+2025-07-31,QEII VG Site,ED,Day,8
+2025-07-31,QEII VG Site,ED,Evening,3
+2025-07-31,QEII VG Site,ED,Night,4
+2025-07-31,QEII VG Site,MED,Day,17
+2025-07-31,QEII VG Site,MED,Evening,8
+2025-07-31,QEII VG Site,MED,Night,15
+2025-07-31,QEII VG Site,SURG,Day,16
+2025-07-31,QEII VG Site,SURG,Evening,18
+2025-07-31,QEII VG Site,SURG,Night,11
+2025-07-31,QEII VG Site,ICU,Day,13
+2025-07-31,QEII VG Site,ICU,Evening,6
+2025-07-31,QEII VG Site,ICU,Night,19
+2025-07-31,Dartmouth General,ED,Day,18
+2025-07-31,Dartmouth General,ED,Evening,9
+2025-07-31,Dartmouth General,ED,Night,9
+2025-07-31,Dartmouth General,MED,Day,15
+2025-07-31,Dartmouth General,MED,Evening,10
+2025-07-31,Dartmouth General,MED,Night,15
+2025-07-31,Dartmouth General,SURG,Day,4
+2025-07-31,Dartmouth General,SURG,Evening,7
+2025-07-31,Dartmouth General,SURG,Night,16
+2025-07-31,Dartmouth General,ICU,Day,18
+2025-07-31,Dartmouth General,ICU,Evening,3
+2025-07-31,Dartmouth General,ICU,Night,16
+2025-07-30,Halifax Infirmary,ED,Day,4
+2025-07-30,Halifax Infirmary,ED,Evening,17
+2025-07-30,Halifax Infirmary,ED,Night,7
+2025-07-30,Halifax Infirmary,MED,Day,9
+2025-07-30,Halifax Infirmary,MED,Evening,15
+2025-07-30,Halifax Infirmary,MED,Night,17
+2025-07-30,Halifax Infirmary,SURG,Day,10
+2025-07-30,Halifax Infirmary,SURG,Evening,8
+2025-07-30,Halifax Infirmary,SURG,Night,19
+2025-07-30,Halifax Infirmary,ICU,Day,19
+2025-07-30,Halifax Infirmary,ICU,Evening,11
+2025-07-30,Halifax Infirmary,ICU,Night,3
+2025-07-30,QEII VG Site,ED,Day,19
+2025-07-30,QEII VG Site,ED,Evening,13
+2025-07-30,QEII VG Site,ED,Night,12
+2025-07-30,QEII VG Site,MED,Day,4
+2025-07-30,QEII VG Site,MED,Evening,19
+2025-07-30,QEII VG Site,MED,Night,15
+2025-07-30,QEII VG Site,SURG,Day,6
+2025-07-30,QEII VG Site,SURG,Evening,9
+2025-07-30,QEII VG Site,SURG,Night,8
+2025-07-30,QEII VG Site,ICU,Day,17
+2025-07-30,QEII VG Site,ICU,Evening,11
+2025-07-30,QEII VG Site,ICU,Night,17
+2025-07-30,Dartmouth General,ED,Day,14
+2025-07-30,Dartmouth General,ED,Evening,9
+2025-07-30,Dartmouth General,ED,Night,9
+2025-07-30,Dartmouth General,MED,Day,16
+2025-07-30,Dartmouth General,MED,Evening,11
+2025-07-30,Dartmouth General,MED,Night,14
+2025-07-30,Dartmouth General,SURG,Day,5
+2025-07-30,Dartmouth General,SURG,Evening,10
+2025-07-30,Dartmouth General,SURG,Night,12
+2025-07-30,Dartmouth General,ICU,Day,8
+2025-07-30,Dartmouth General,ICU,Evening,17
+2025-07-30,Dartmouth General,ICU,Night,6
+2025-07-29,Halifax Infirmary,ED,Day,17
+2025-07-29,Halifax Infirmary,ED,Evening,4
+2025-07-29,Halifax Infirmary,ED,Night,10
+2025-07-29,Halifax Infirmary,MED,Day,11
+2025-07-29,Halifax Infirmary,MED,Evening,7
+2025-07-29,Halifax Infirmary,MED,Night,12
+2025-07-29,Halifax Infirmary,SURG,Day,18
+2025-07-29,Halifax Infirmary,SURG,Evening,10
+2025-07-29,Halifax Infirmary,SURG,Night,12
+2025-07-29,Halifax Infirmary,ICU,Day,19
+2025-07-29,Halifax Infirmary,ICU,Evening,18
+2025-07-29,Halifax Infirmary,ICU,Night,3
+2025-07-29,QEII VG Site,ED,Day,15
+2025-07-29,QEII VG Site,ED,Evening,17
+2025-07-29,QEII VG Site,ED,Night,19
+2025-07-29,QEII VG Site,MED,Day,16
+2025-07-29,QEII VG Site,MED,Evening,4
+2025-07-29,QEII VG Site,MED,Night,15
+2025-07-29,QEII VG Site,SURG,Day,17
+2025-07-29,QEII VG Site,SURG,Evening,11
+2025-07-29,QEII VG Site,SURG,Night,3
+2025-07-29,QEII VG Site,ICU,Day,6
+2025-07-29,QEII VG Site,ICU,Evening,7
+2025-07-29,QEII VG Site,ICU,Night,17
+2025-07-29,Dartmouth General,ED,Day,5
+2025-07-29,Dartmouth General,ED,Evening,15
+2025-07-29,Dartmouth General,ED,Night,6
+2025-07-29,Dartmouth General,MED,Day,17
+2025-07-29,Dartmouth General,MED,Evening,3
+2025-07-29,Dartmouth General,MED,Night,7
+2025-07-29,Dartmouth General,SURG,Day,4
+2025-07-29,Dartmouth General,SURG,Evening,12
+2025-07-29,Dartmouth General,SURG,Night,16
+2025-07-29,Dartmouth General,ICU,Day,10
+2025-07-29,Dartmouth General,ICU,Evening,12
+2025-07-29,Dartmouth General,ICU,Night,13
+2025-07-28,Halifax Infirmary,ED,Day,10
+2025-07-28,Halifax Infirmary,ED,Evening,15
+2025-07-28,Halifax Infirmary,ED,Night,7
+2025-07-28,Halifax Infirmary,MED,Day,5
+2025-07-28,Halifax Infirmary,MED,Evening,6
+2025-07-28,Halifax Infirmary,MED,Night,5
+2025-07-28,Halifax Infirmary,SURG,Day,3
+2025-07-28,Halifax Infirmary,SURG,Evening,3
+2025-07-28,Halifax Infirmary,SURG,Night,3
+2025-07-28,Halifax Infirmary,ICU,Day,5
+2025-07-28,Halifax Infirmary,ICU,Evening,13
+2025-07-28,Halifax Infirmary,ICU,Night,7
+2025-07-28,QEII VG Site,ED,Day,12
+2025-07-28,QEII VG Site,ED,Evening,4
+2025-07-28,QEII VG Site,ED,Night,16
+2025-07-28,QEII VG Site,MED,Day,9
+2025-07-28,QEII VG Site,MED,Evening,10
+2025-07-28,QEII VG Site,MED,Night,14
+2025-07-28,QEII VG Site,SURG,Day,19
+2025-07-28,QEII VG Site,SURG,Evening,16
+2025-07-28,QEII VG Site,SURG,Night,9
+2025-07-28,QEII VG Site,ICU,Day,8
+2025-07-28,QEII VG Site,ICU,Evening,8
+2025-07-28,QEII VG Site,ICU,Night,4
+2025-07-28,Dartmouth General,ED,Day,8
+2025-07-28,Dartmouth General,ED,Evening,15
+2025-07-28,Dartmouth General,ED,Night,7
+2025-07-28,Dartmouth General,MED,Day,9
+2025-07-28,Dartmouth General,MED,Evening,4
+2025-07-28,Dartmouth General,MED,Night,7
+2025-07-28,Dartmouth General,SURG,Day,4
+2025-07-28,Dartmouth General,SURG,Evening,11
+2025-07-28,Dartmouth General,SURG,Night,8
+2025-07-28,Dartmouth General,ICU,Day,19
+2025-07-28,Dartmouth General,ICU,Evening,13
+2025-07-28,Dartmouth General,ICU,Night,9
+2025-07-27,Halifax Infirmary,ED,Day,12
+2025-07-27,Halifax Infirmary,ED,Evening,19
+2025-07-27,Halifax Infirmary,ED,Night,6
+2025-07-27,Halifax Infirmary,MED,Day,7
+2025-07-27,Halifax Infirmary,MED,Evening,12
+2025-07-27,Halifax Infirmary,MED,Night,4
+2025-07-27,Halifax Infirmary,SURG,Day,11
+2025-07-27,Halifax Infirmary,SURG,Evening,5
+2025-07-27,Halifax Infirmary,SURG,Night,17
+2025-07-27,Halifax Infirmary,ICU,Day,16
+2025-07-27,Halifax Infirmary,ICU,Evening,3
+2025-07-27,Halifax Infirmary,ICU,Night,12
+2025-07-27,QEII VG Site,ED,Day,6
+2025-07-27,QEII VG Site,ED,Evening,12
+2025-07-27,QEII VG Site,ED,Night,12
+2025-07-27,QEII VG Site,MED,Day,19
+2025-07-27,QEII VG Site,MED,Evening,6
+2025-07-27,QEII VG Site,MED,Night,11
+2025-07-27,QEII VG Site,SURG,Day,19
+2025-07-27,QEII VG Site,SURG,Evening,4
+2025-07-27,QEII VG Site,SURG,Night,7
+2025-07-27,QEII VG Site,ICU,Day,15
+2025-07-27,QEII VG Site,ICU,Evening,4
+2025-07-27,QEII VG Site,ICU,Night,6
+2025-07-27,Dartmouth General,ED,Day,19
+2025-07-27,Dartmouth General,ED,Evening,12
+2025-07-27,Dartmouth General,ED,Night,3
+2025-07-27,Dartmouth General,MED,Day,17
+2025-07-27,Dartmouth General,MED,Evening,11
+2025-07-27,Dartmouth General,MED,Night,11
+2025-07-27,Dartmouth General,SURG,Day,19
+2025-07-27,Dartmouth General,SURG,Evening,8
+2025-07-27,Dartmouth General,SURG,Night,9
+2025-07-27,Dartmouth General,ICU,Day,12
+2025-07-27,Dartmouth General,ICU,Evening,7
+2025-07-27,Dartmouth General,ICU,Night,5
+2025-07-26,Halifax Infirmary,ED,Day,5
+2025-07-26,Halifax Infirmary,ED,Evening,8
+2025-07-26,Halifax Infirmary,ED,Night,4
+2025-07-26,Halifax Infirmary,MED,Day,11
+2025-07-26,Halifax Infirmary,MED,Evening,19
+2025-07-26,Halifax Infirmary,MED,Night,7
+2025-07-26,Halifax Infirmary,SURG,Day,3
+2025-07-26,Halifax Infirmary,SURG,Evening,3
+2025-07-26,Halifax Infirmary,SURG,Night,5
+2025-07-26,Halifax Infirmary,ICU,Day,12
+2025-07-26,Halifax Infirmary,ICU,Evening,11
+2025-07-26,Halifax Infirmary,ICU,Night,9
+2025-07-26,QEII VG Site,ED,Day,15
+2025-07-26,QEII VG Site,ED,Evening,9
+2025-07-26,QEII VG Site,ED,Night,13
+2025-07-26,QEII VG Site,MED,Day,19
+2025-07-26,QEII VG Site,MED,Evening,5
+2025-07-26,QEII VG Site,MED,Night,4
+2025-07-26,QEII VG Site,SURG,Day,6
+2025-07-26,QEII VG Site,SURG,Evening,5
+2025-07-26,QEII VG Site,SURG,Night,17
+2025-07-26,QEII VG Site,ICU,Day,17
+2025-07-26,QEII VG Site,ICU,Evening,12
+2025-07-26,QEII VG Site,ICU,Night,5
+2025-07-26,Dartmouth General,ED,Day,17
+2025-07-26,Dartmouth General,ED,Evening,18
+2025-07-26,Dartmouth General,ED,Night,9
+2025-07-26,Dartmouth General,MED,Day,14
+2025-07-26,Dartmouth General,MED,Evening,13
+2025-07-26,Dartmouth General,MED,Night,11
+2025-07-26,Dartmouth General,SURG,Day,9
+2025-07-26,Dartmouth General,SURG,Evening,7
+2025-07-26,Dartmouth General,SURG,Night,7
+2025-07-26,Dartmouth General,ICU,Day,9
+2025-07-26,Dartmouth General,ICU,Evening,15
+2025-07-26,Dartmouth General,ICU,Night,17
+2025-07-25,Halifax Infirmary,ED,Day,4
+2025-07-25,Halifax Infirmary,ED,Evening,3
+2025-07-25,Halifax Infirmary,ED,Night,11
+2025-07-25,Halifax Infirmary,MED,Day,16
+2025-07-25,Halifax Infirmary,MED,Evening,12
+2025-07-25,Halifax Infirmary,MED,Night,17
+2025-07-25,Halifax Infirmary,SURG,Day,15
+2025-07-25,Halifax Infirmary,SURG,Evening,15
+2025-07-25,Halifax Infirmary,SURG,Night,12
+2025-07-25,Halifax Infirmary,ICU,Day,3
+2025-07-25,Halifax Infirmary,ICU,Evening,6
+2025-07-25,Halifax Infirmary,ICU,Night,15
+2025-07-25,QEII VG Site,ED,Day,8
+2025-07-25,QEII VG Site,ED,Evening,15
+2025-07-25,QEII VG Site,ED,Night,8
+2025-07-25,QEII VG Site,MED,Day,3
+2025-07-25,QEII VG Site,MED,Evening,14
+2025-07-25,QEII VG Site,MED,Night,18
+2025-07-25,QEII VG Site,SURG,Day,10
+2025-07-25,QEII VG Site,SURG,Evening,5
+2025-07-25,QEII VG Site,SURG,Night,10
+2025-07-25,QEII VG Site,ICU,Day,19
+2025-07-25,QEII VG Site,ICU,Evening,8
+2025-07-25,QEII VG Site,ICU,Night,4
+2025-07-25,Dartmouth General,ED,Day,16
+2025-07-25,Dartmouth General,ED,Evening,7
+2025-07-25,Dartmouth General,ED,Night,3
+2025-07-25,Dartmouth General,MED,Day,14
+2025-07-25,Dartmouth General,MED,Evening,8
+2025-07-25,Dartmouth General,MED,Night,5
+2025-07-25,Dartmouth General,SURG,Day,3
+2025-07-25,Dartmouth General,SURG,Evening,6
+2025-07-25,Dartmouth General,SURG,Night,5
+2025-07-25,Dartmouth General,ICU,Day,3
+2025-07-25,Dartmouth General,ICU,Evening,9
+2025-07-25,Dartmouth General,ICU,Night,17
+2025-07-24,Halifax Infirmary,ED,Day,9
+2025-07-24,Halifax Infirmary,ED,Evening,3
+2025-07-24,Halifax Infirmary,ED,Night,17
+2025-07-24,Halifax Infirmary,MED,Day,13
+2025-07-24,Halifax Infirmary,MED,Evening,19
+2025-07-24,Halifax Infirmary,MED,Night,12
+2025-07-24,Halifax Infirmary,SURG,Day,11
+2025-07-24,Halifax Infirmary,SURG,Evening,11
+2025-07-24,Halifax Infirmary,SURG,Night,3
+2025-07-24,Halifax Infirmary,ICU,Day,9
+2025-07-24,Halifax Infirmary,ICU,Evening,10
+2025-07-24,Halifax Infirmary,ICU,Night,8
+2025-07-24,QEII VG Site,ED,Day,17
+2025-07-24,QEII VG Site,ED,Evening,19
+2025-07-24,QEII VG Site,ED,Night,11
+2025-07-24,QEII VG Site,MED,Day,16
+2025-07-24,QEII VG Site,MED,Evening,6
+2025-07-24,QEII VG Site,MED,Night,18
+2025-07-24,QEII VG Site,SURG,Day,14
+2025-07-24,QEII VG Site,SURG,Evening,15
+2025-07-24,QEII VG Site,SURG,Night,13
+2025-07-24,QEII VG Site,ICU,Day,17
+2025-07-24,QEII VG Site,ICU,Evening,12
+2025-07-24,QEII VG Site,ICU,Night,19
+2025-07-24,Dartmouth General,ED,Day,14
+2025-07-24,Dartmouth General,ED,Evening,10
+2025-07-24,Dartmouth General,ED,Night,6
+2025-07-24,Dartmouth General,MED,Day,18
+2025-07-24,Dartmouth General,MED,Evening,3
+2025-07-24,Dartmouth General,MED,Night,3
+2025-07-24,Dartmouth General,SURG,Day,3
+2025-07-24,Dartmouth General,SURG,Evening,4
+2025-07-24,Dartmouth General,SURG,Night,7
+2025-07-24,Dartmouth General,ICU,Day,11
+2025-07-24,Dartmouth General,ICU,Evening,7
+2025-07-24,Dartmouth General,ICU,Night,10
+2025-07-23,Halifax Infirmary,ED,Day,10
+2025-07-23,Halifax Infirmary,ED,Evening,10
+2025-07-23,Halifax Infirmary,ED,Night,4
+2025-07-23,Halifax Infirmary,MED,Day,12
+2025-07-23,Halifax Infirmary,MED,Evening,8
+2025-07-23,Halifax Infirmary,MED,Night,12
+2025-07-23,Halifax Infirmary,SURG,Day,4
+2025-07-23,Halifax Infirmary,SURG,Evening,17
+2025-07-23,Halifax Infirmary,SURG,Night,15
+2025-07-23,Halifax Infirmary,ICU,Day,8
+2025-07-23,Halifax Infirmary,ICU,Evening,9
+2025-07-23,Halifax Infirmary,ICU,Night,8
+2025-07-23,QEII VG Site,ED,Day,19
+2025-07-23,QEII VG Site,ED,Evening,14
+2025-07-23,QEII VG Site,ED,Night,10
+2025-07-23,QEII VG Site,MED,Day,14
+2025-07-23,QEII VG Site,MED,Evening,4
+2025-07-23,QEII VG Site,MED,Night,17
+2025-07-23,QEII VG Site,SURG,Day,13
+2025-07-23,QEII VG Site,SURG,Evening,8
+2025-07-23,QEII VG Site,SURG,Night,14
+2025-07-23,QEII VG Site,ICU,Day,3
+2025-07-23,QEII VG Site,ICU,Evening,11
+2025-07-23,QEII VG Site,ICU,Night,19
+2025-07-23,Dartmouth General,ED,Day,15
+2025-07-23,Dartmouth General,ED,Evening,3
+2025-07-23,Dartmouth General,ED,Night,13
+2025-07-23,Dartmouth General,MED,Day,14
+2025-07-23,Dartmouth General,MED,Evening,11
+2025-07-23,Dartmouth General,MED,Night,8
+2025-07-23,Dartmouth General,SURG,Day,14
+2025-07-23,Dartmouth General,SURG,Evening,10
+2025-07-23,Dartmouth General,SURG,Night,19
+2025-07-23,Dartmouth General,ICU,Day,17
+2025-07-23,Dartmouth General,ICU,Evening,18
+2025-07-23,Dartmouth General,ICU,Night,10
+2025-07-22,Halifax Infirmary,ED,Day,14
+2025-07-22,Halifax Infirmary,ED,Evening,5
+2025-07-22,Halifax Infirmary,ED,Night,15
+2025-07-22,Halifax Infirmary,MED,Day,15
+2025-07-22,Halifax Infirmary,MED,Evening,16
+2025-07-22,Halifax Infirmary,MED,Night,3
+2025-07-22,Halifax Infirmary,SURG,Day,10
+2025-07-22,Halifax Infirmary,SURG,Evening,7
+2025-07-22,Halifax Infirmary,SURG,Night,18
+2025-07-22,Halifax Infirmary,ICU,Day,12
+2025-07-22,Halifax Infirmary,ICU,Evening,13
+2025-07-22,Halifax Infirmary,ICU,Night,10
+2025-07-22,QEII VG Site,ED,Day,4
+2025-07-22,QEII VG Site,ED,Evening,13
+2025-07-22,QEII VG Site,ED,Night,13
+2025-07-22,QEII VG Site,MED,Day,9
+2025-07-22,QEII VG Site,MED,Evening,13
+2025-07-22,QEII VG Site,MED,Night,9
+2025-07-22,QEII VG Site,SURG,Day,14
+2025-07-22,QEII VG Site,SURG,Evening,8
+2025-07-22,QEII VG Site,SURG,Night,16
+2025-07-22,QEII VG Site,ICU,Day,18
+2025-07-22,QEII VG Site,ICU,Evening,11
+2025-07-22,QEII VG Site,ICU,Night,3
+2025-07-22,Dartmouth General,ED,Day,14
+2025-07-22,Dartmouth General,ED,Evening,18
+2025-07-22,Dartmouth General,ED,Night,15
+2025-07-22,Dartmouth General,MED,Day,9
+2025-07-22,Dartmouth General,MED,Evening,12
+2025-07-22,Dartmouth General,MED,Night,9
+2025-07-22,Dartmouth General,SURG,Day,16
+2025-07-22,Dartmouth General,SURG,Evening,15
+2025-07-22,Dartmouth General,SURG,Night,13
+2025-07-22,Dartmouth General,ICU,Day,9
+2025-07-22,Dartmouth General,ICU,Evening,5
+2025-07-22,Dartmouth General,ICU,Night,13
+2025-07-21,Halifax Infirmary,ED,Day,8
+2025-07-21,Halifax Infirmary,ED,Evening,18
+2025-07-21,Halifax Infirmary,ED,Night,4
+2025-07-21,Halifax Infirmary,MED,Day,17
+2025-07-21,Halifax Infirmary,MED,Evening,16
+2025-07-21,Halifax Infirmary,MED,Night,11
+2025-07-21,Halifax Infirmary,SURG,Day,19
+2025-07-21,Halifax Infirmary,SURG,Evening,15
+2025-07-21,Halifax Infirmary,SURG,Night,3
+2025-07-21,Halifax Infirmary,ICU,Day,9
+2025-07-21,Halifax Infirmary,ICU,Evening,17
+2025-07-21,Halifax Infirmary,ICU,Night,16
+2025-07-21,QEII VG Site,ED,Day,5
+2025-07-21,QEII VG Site,ED,Evening,5
+2025-07-21,QEII VG Site,ED,Night,18
+2025-07-21,QEII VG Site,MED,Day,3
+2025-07-21,QEII VG Site,MED,Evening,19
+2025-07-21,QEII VG Site,MED,Night,12
+2025-07-21,QEII VG Site,SURG,Day,16
+2025-07-21,QEII VG Site,SURG,Evening,6
+2025-07-21,QEII VG Site,SURG,Night,8
+2025-07-21,QEII VG Site,ICU,Day,15
+2025-07-21,QEII VG Site,ICU,Evening,5
+2025-07-21,QEII VG Site,ICU,Night,4
+2025-07-21,Dartmouth General,ED,Day,13
+2025-07-21,Dartmouth General,ED,Evening,3
+2025-07-21,Dartmouth General,ED,Night,18
+2025-07-21,Dartmouth General,MED,Day,14
+2025-07-21,Dartmouth General,MED,Evening,15
+2025-07-21,Dartmouth General,MED,Night,11
+2025-07-21,Dartmouth General,SURG,Day,13
+2025-07-21,Dartmouth General,SURG,Evening,19
+2025-07-21,Dartmouth General,SURG,Night,3
+2025-07-21,Dartmouth General,ICU,Day,7
+2025-07-21,Dartmouth General,ICU,Evening,14
+2025-07-21,Dartmouth General,ICU,Night,5
+2025-07-20,Halifax Infirmary,ED,Day,7
+2025-07-20,Halifax Infirmary,ED,Evening,3
+2025-07-20,Halifax Infirmary,ED,Night,3
+2025-07-20,Halifax Infirmary,MED,Day,10
+2025-07-20,Halifax Infirmary,MED,Evening,14
+2025-07-20,Halifax Infirmary,MED,Night,4
+2025-07-20,Halifax Infirmary,SURG,Day,19
+2025-07-20,Halifax Infirmary,SURG,Evening,16
+2025-07-20,Halifax Infirmary,SURG,Night,14
+2025-07-20,Halifax Infirmary,ICU,Day,4
+2025-07-20,Halifax Infirmary,ICU,Evening,11
+2025-07-20,Halifax Infirmary,ICU,Night,18
+2025-07-20,QEII VG Site,ED,Day,7
+2025-07-20,QEII VG Site,ED,Evening,12
+2025-07-20,QEII VG Site,ED,Night,12
+2025-07-20,QEII VG Site,MED,Day,14
+2025-07-20,QEII VG Site,MED,Evening,18
+2025-07-20,QEII VG Site,MED,Night,5
+2025-07-20,QEII VG Site,SURG,Day,4
+2025-07-20,QEII VG Site,SURG,Evening,4
+2025-07-20,QEII VG Site,SURG,Night,7
+2025-07-20,QEII VG Site,ICU,Day,9
+2025-07-20,QEII VG Site,ICU,Evening,17
+2025-07-20,QEII VG Site,ICU,Night,11
+2025-07-20,Dartmouth General,ED,Day,15
+2025-07-20,Dartmouth General,ED,Evening,12
+2025-07-20,Dartmouth General,ED,Night,19
+2025-07-20,Dartmouth General,MED,Day,8
+2025-07-20,Dartmouth General,MED,Evening,14
+2025-07-20,Dartmouth General,MED,Night,7
+2025-07-20,Dartmouth General,SURG,Day,6
+2025-07-20,Dartmouth General,SURG,Evening,19
+2025-07-20,Dartmouth General,SURG,Night,3
+2025-07-20,Dartmouth General,ICU,Day,7
+2025-07-20,Dartmouth General,ICU,Evening,9
+2025-07-20,Dartmouth General,ICU,Night,5

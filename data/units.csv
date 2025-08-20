@@ -1,0 +1,5 @@
+unit_id,unit_name
+ED,Emergency Department
+MED,Medical Ward
+SURG,Surgical Ward
+ICU,Intensive Care Unit
