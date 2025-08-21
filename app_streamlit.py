@@ -121,7 +121,7 @@ def load_admissions(date_from=None, date_to=None, hospital=None, unit=None):
         con.close()
 
 
-# ---------- TRUE daily census occupancy ----------
+# ---------- daily census occupancy ----------
 def compute_daily_true_occupancy(adm: pd.DataFrame, beds_ref: pd.DataFrame,
                                  date_start, date_end) -> pd.DataFrame:
     """
@@ -227,18 +227,20 @@ st.divider()
 # Admissions over time
 ts = adm.groupby(adm["admit_ts"].dt.date).size().reset_index(name="admissions")
 fig1 = px.line(ts, x="admit_ts", y="admissions", title="Admissions Over Time")
+fig1.update_layout(xaxis_title="Date", yaxis_title="Number of admissions")
 st.plotly_chart(fig1, use_container_width=True)
 
 # Average LOS by unit
 by_unit = adm.groupby("unit_id")["los_hours"].mean().reset_index()
 fig2 = px.bar(by_unit, x="unit_id", y="los_hours", title="Average LOS by Unit")
+fig2.update_layout(xaxis_title="Department", yaxis_title="Average LOS (hrs)")
 st.plotly_chart(fig2, use_container_width=True)
 
 # ED wait by triage (if ED present)
 ed = adm.loc[adm["unit_id"].eq("ED")].dropna(subset=["wait_minutes"]).copy()
 if len(ed) > 0:
     by_triage = ed.groupby("triage_level")["wait_minutes"].mean().reset_index()
-    fig3 = px.bar(by_triage, x="triage_level", y="wait_minutes", title="ED Average Wait (mins) by Triage Level")
+    fig3 = px.bar(by_triage, x="triage_level", y="wait_minutes", title="Emergency Department Average Wait (mins) by Triage Level")
     st.plotly_chart(fig3, use_container_width=True)
 
 # TRUE daily occupancy chart
