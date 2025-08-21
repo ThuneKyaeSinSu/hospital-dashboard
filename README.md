@@ -38,5 +38,14 @@ All datasets are generated for demonstration only and stored in `/data`:
 ## 🚀 Quick Start
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/hospital-dashboard.git
+git clone https://github.com/ThuneKyaeSinSu/hospital-dashboard.git
 cd hospital-dashboard
+```
+### 2. Install dependicies
+```bash
+pip install streamlit pandas numpy plotly python-dateutil
+```
+### 3. Run the app
+```bash
+streamlit run app_streamlit.py
+```

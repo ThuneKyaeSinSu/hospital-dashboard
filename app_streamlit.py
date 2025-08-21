@@ -1,7 +1,3 @@
-# app_streamlit.py
-# Streamlit dashboard backed by SQLite with filter-aware queries + TRUE daily census occupancy.
-# Place this file in the project root (next to schema.sql and data/).
-
 from pathlib import Path
 import sqlite3
 import pandas as pd
@@ -19,7 +15,7 @@ SCHEMA_PATH = BASE / "schema.sql"
 st.set_page_config(page_title="Hospital Ops Dashboard", layout="wide")
 
 
-# ---------- One-time bootstrap: create DB from CSVs if missing ----------
+# ---------- Create DB from CSVs if missing ----------
 def ensure_db_exists():
     if DB_PATH.exists():
         return
@@ -184,8 +180,12 @@ with c3:
     unit = st.selectbox("Unit", ["All"] + all_units, index=0)
 
 # ---------- Data pull (filter-aware) ----------
-adm = load_admissions(date_from=date_range[0], date_to=date_range[1], hospital=hospital, unit=unit)
-st.caption(f"Filtered encounters: {len(adm):,}")
+if len(date_range) == 2:
+    adm = load_admissions(date_from=date_range[0], date_to=date_range[1], hospital=hospital, unit=unit)
+    st.caption(f"Filtered encounters: {len(adm):,}")
+else:
+    st.error("Please select the end date.")
+    st.stop()
 
 if len(adm) == 0:
     st.info("No encounters in the selected filters.")
